@@ -51,7 +51,7 @@ class eZOOGenerator
     /*!
      Constructor
     */
-    function eZOOGenerator()
+    function __construct()
     {
     }
 

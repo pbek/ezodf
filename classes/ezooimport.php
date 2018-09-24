@@ -71,7 +71,7 @@ class eZOOImport
     /*!
      Constructor
     */
-    function eZOOImport()
+    function __construct()
     {
         $this->ERROR['number'] = 0;
         $this->ERROR['value'] = '';

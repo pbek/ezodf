@@ -42,7 +42,7 @@ class eZOOConverter
     /*!
      Constructor
     */
-    function eZOOConverter()
+    function __construct()
     {
     }
 
